@@ -15,9 +15,7 @@
 
 # Class Work
 
-**2DFluidFlow.ipynb** - *A fluid flow simulation, the video 2D.mp4 was created from*
-
-**2D.mp4**
+**2DFluidFlow.ipynb** - *A fluid flow simulation, the video **2D.mp4** was created from*
 
 **Earthquakes.ipynb** - *Code pertaing to the collection, analysis and represntation of data on earthquakes.*
 
