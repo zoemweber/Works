@@ -6,7 +6,7 @@
 
 # Research
 
-**BHL** - *A directory including some work that I did on bondi-hoyle-Lyttleton. This was apart of my research using FLASH, where all the simulations were run.*
+**BHL** - *A directory including some work that I did on Bondi-Hoyle-Lyttleton. This was apart of my research using FLASH, where all the simulations were run.*
 
 **Velocity.ipynb** - *These are some of the main plots I created for my thesis on accreting white dwarfs. Data was taken from the simulations run in MESA.*
 
